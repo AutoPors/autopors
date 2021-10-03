@@ -85,7 +85,7 @@ if(isset($_POST["submit"]))
      $mail->Subject = 'Password reset request for your account';
 
      $message_body = '
-     <p>For reset your password, you have to enter this verification code when prompted: <strong>'.$user_otp.'</strong>.</p>
+     <p>For reset your password, you have to enter this verification code when prompted: <strong>'.$user_otp.'</strong>.</p><br>
      <p>Sincerely, AutoPors</p>
      ';
 
