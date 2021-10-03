@@ -2,8 +2,6 @@
 
 //login_verify.php
 
-
-
 include('database_connection.php');
 
 session_start();
@@ -178,10 +176,6 @@ if(isset($_POST["action"]))
 			$next_action = 'otp';
 		}
 	}
-
-
-
-
 
 	$output = array(
 		'error'			=>	$error,

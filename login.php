@@ -4,7 +4,7 @@ session_start();
 
 if(isset($_SESSION["user_id"]))
 {
- header("location:https://autopors.tech/dashboard.php");
+ header("location:/dashboard.php");
 }
 
 ?>
