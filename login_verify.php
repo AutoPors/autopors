@@ -122,7 +122,7 @@ if(isset($_POST["action"]))
 					$mail->Subject = 'Verification code for Login';
 
 					$message_body = '
-					<p>For verify your login details, enter this verification code when prompted: <strong>'.$login_otp.'</strong>.</p>
+					<p>To verify your login details, enter this verification code when prompted: <strong>'.$login_otp.'</strong>.</p>
 					<p>Sincerely, AutoPors</p>
 					';
 

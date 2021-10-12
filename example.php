@@ -27,7 +27,7 @@
   <div class="flex flex-col text-center w-full mb-20">
         <h1 class="sm:text-3xl text-2xl font-medium title-font mb-1 text-red-500">Kunal Mishra</h1>
         <div class="flex flex-wrap w-full mb-0 flex-col items-center text-center">
-      <p class="lg:w-1/2 w-full leading-relaxed text-blue-500">Intrested in learning new thing. Can do stuff related to Hardware as well as Sofware. <br>My mul mantra<strong> "Tension nahi lene ka, qki usse kuch hone nahi wala, only kaam aur karm karneka !"</strong></p>
+      <p class="lg:w-1/2 w-full leading-relaxed text-blue-500">Intrested in learning new thing. Can do stuff related to server as well as Sofware. <br>My mul mantra<strong> "Tension nahi lene ka, qki usse kuch hone nahi wala, only kaam aur karm karneka !"</strong></p>
     </div>
     </div>
   <div class="container px-5 py-1 mx-auto flex flex-col">
@@ -44,54 +44,7 @@
           </div>
         </div>
            <div class="lg:w-2/3 w-full mx-auto overflow-auto">
-      <table class="table-auto w-full text-left whitespace-no-wrap">
-        <thead>
-          <tr>
-            <th class="px-4 py-3 title-font tracking-wider font-medium text-gray-900 text-sm bg-gray-200 rounded-tl rounded-bl">Skill</th>
-            <th class="px-4 py-3 title-font tracking-wider font-medium text-gray-900 text-sm bg-gray-200">Score (out of 10)</th>
-            <th class="px-4 py-3 title-font tracking-wider font-medium text-gray-900 text-sm bg-gray-200">Number of projects regarding Skills</th>
-            <th class="w-10 title-font tracking-wider font-medium text-gray-900 text-sm bg-gray-200 rounded-tr rounded-br"></th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td class="px-4 py-3">Java</td>
-            <td class="px-4 py-3">8</td>
-            <td class="px-4 py-3">5</td>
-            
-            <td class="w-10 text-center">
-              <input name="plan" type="checkbox" checked>
-            </td>
-          </tr>
-          <tr>
-            <td class="border-t-2 border-gray-200 px-4 py-3">HTML</td>
-            <td class="border-t-2 border-gray-200 px-4 py-3">8</td>
-            <td class="border-t-2 border-gray-200 px-4 py-3">25</td>
-          
-            <td class="border-t-2 border-gray-200 w-10 text-center">
-              <input name="plan" type="checkbox" checked>
-            </td>
-          </tr>
-          <tr>
-            <td class="border-t-2 border-gray-200 px-4 py-3">CSS</td>
-            <td class="border-t-2 border-gray-200 px-4 py-3">7</td>
-            <td class="border-t-2 border-gray-200 px-4 py-3">25</td>
-
-            <td class="border-t-2 border-gray-200 w-10 text-center">
-              <input name="plan" type="checkbox" checked>
-            </td>
-          </tr>
-          <tr>
-            <td class="border-t-2 border-b-2 border-gray-200 px-4 py-3">PHP</td>
-            <td class="border-t-2 border-b-2 border-gray-200 px-4 py-3">5</td>
-            <td class="border-t-2 border-b-2 border-gray-200 px-4 py-3">2</td>
-
-            <td class="border-t-2 border-b-2 border-gray-200 w-10 text-center">
-              <input name="plan" type="checkbox" checked>
-            </td>
-          </tr>
-        </tbody>
-      </table>
+     
     </div>
       </div>
     </div>
@@ -120,7 +73,7 @@
         </div>
         <div class="p-2 w-full pt-8 mt-8 border-t border-gray-200 text-center">
           <a class="text-indigo-500">kunalrajatkool@gmail.com</a>
-          <p class="leading-normal my-5">Kailashpuram, Govindpuram
+          <p class="leading-normal my-5">Khushboo ke paas
             <br>Ghaziabad, India
           </p>
         </div>
