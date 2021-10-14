@@ -1,5 +1,5 @@
 body {
-    background: white;
+    background: rgb(207, 201, 201);
 }
 .form {
     margin: 50px auto;
@@ -46,7 +46,7 @@ h1.login-title {
 .link a {
     color: #666;
 }
-h3 {
+h3,h1,h2 {
     font-weight: normal;
     text-align: center;
 }
