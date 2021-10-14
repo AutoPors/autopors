@@ -338,45 +338,7 @@ elseif (empty($skill3) AND empty($skill4) AND empty($skill5)){
          \r\n
       </section>
       \r\n
-      <section class=\"text-gray-700 body-font relative\" id = \"contact\">
-         \r\n  
-         <div class=\"container px-5 py-24 mx-auto\">
-            \r\n    
-            <div class=\"flex flex-col text-center w-full mb-12\">
-               \r\n      
-               <h1 class=\"sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900\">Contact Us</h1>
-               \r\n      
-               <p class=\"lg:w-2/3 mx-auto leading-relaxed text-base\">We are 24\\7 available to solve your query.</p>
-               \r\n    
-            </div>
-            \r\n 
-            <form method=\"post\" action='action.php'>
-               \r\n    <div class=\"lg:w-1/2 md:w-2/3 mx-auto\">\r\n      <div class=\"flex flex-wrap -m-2\">\r\n        <div class=\"p-2 w-1/2\">\r\n          <input class=\"w-full bg-gray-100 rounded border border-gray-400 focus:outline-none focus:border-indigo-500 text-base px-4 py-2\" placeholder=\"Name\" type=\"text\" id='name' name='name'>\r\n        
-         </div>
-         \r\n        <div class=\"p-2 w-1/2\">\r\n          <input class=\"w-full bg-gray-100 rounded border border-gray-400 focus:outline-none focus:border-indigo-500 text-base px-4 py-2\" placeholder=\"Email\" type=\"email\" name ='email' id ='email'>\r\n        </div>\r\n        <div class=\"p-2 w-full\">\r\n          <textarea class=\"w-full bg-gray-100 rounded border border-gray-400 focus:outline-none h-48 focus:border-indigo-500 text-base px-4 py-2 resize-none block\" placeholder=\"Message\" name ='message' id ='message'></textarea>\r\n        </div>\r\n        <div class=\"p-2 w-full\">\r\n          <button class=\"flex mx-auto text-white bg-$tcolor-500 border-0 py-2 px-8 focus:outline-none hover:bg-$tcolor-600 rounded text-lg\">Submit</button>\r\n        </div>\r\n        <div class=\"p-2 w-full pt-8 mt-8 border-t border-gray-200 text-center\">\r\n          <a class=\"text-indigo-500\">$email</a>\r\n          <p class=\"leading-normal my-5\"> $address\r\n          </p>\r\n        </div>\r\n      </div>\r\n    </div>\r\n</form>\r\n  </div>\r\n
-      </section>
-      \r\n\t
-      <footer class=\"text-gray-700 body-font\">
-         \r\n  
-         <div class=\"container px-5 py-8 mx-auto flex items-center sm:flex-row flex-col\">
-            \r\n    <a href = \"index.html\" class=\"flex title-font font-medium items-center md:justify-start justify-center text-gray-900\">\r\n      <span class=\"ml-3 text-xl\"><font color = \"$tcolor\">$name</font><font color = \"$tcolor2\">$lname</font></span>\r\n    </a>\r\n    
-            <p class=\"text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4\">Webiste Powered By <a href =\"https://autopors.com\">AutoPors</a>\r\n    </p>
-            \r\n    
-            <span class=\"inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start\">
-               \r\n      <a href =\"contact.html\" class=\"text-gray-500\">\r\n        <svg fill=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" class=\"w-5 h-5\" viewBox=\"0 0 24 24\">\r\n          <path d=\"M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z\"></path>\r\n        </svg>\r\n      </a>\r\n      <a href =\"contact.html\" class=\"ml-3 text-gray-500\">\r\n        <svg fill=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" class=\"w-5 h-5\" viewBox=\"0 0 24 24\">\r\n          <path d=\"M23 3a10.9 10.9 0 01-3.14 1.53 4.48 4.48 0 00-7.86 3v1A10.66 10.66 0 013 4s-4 9 5 13a11.64 11.64 0 01-7 2c9 5 20 0 20-11.5a4.5 4.5 0 00-.08-.83A7.72 7.72 0 0023 3z\"></path>\r\n        </svg>\r\n      </a>\r\n      
-               <a href =\"contact.html\" class=\"ml-3 text-gray-500\">
-                  \r\n        <svg fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" class=\"w-5 h-5\" viewBox=\"0 0 24 24\">\r\n          
-                  <rect width=\"20\" height=\"20\" x=\"2\" y=\"2\" rx=\"5\" ry=\"5\"></rect>
-                  \r\n          <path d=\"M16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37zm1.5-4.87h.01\"></path>\r\n        </svg>\r\n      
-               </a>
-               \r\n      
-               <a href =\"contact.html\" class=\"ml-3 text-gray-500\">
-                  \r\n        <svg fill=\"currentColor\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"0\" class=\"w-5 h-5\" viewBox=\"0 0 24 24\">\r\n          <path stroke=\"none\" d=\"M16 8a6 6 0 016 6v7h-4v-7a2 2 0 00-2-2 2 2 0 00-2 2v7h-4v-7a6 6 0 016-6zM2 9h4v12H2z\"></path>\r\n          
-                  <circle cx=\"4\" cy=\"4\" r=\"2\" stroke=\"none\"></circle>
-                  \r\n        </svg>\r\n      
-               </a>
-               \r\n    
-            </span>
+     
             \r\n  
          </div>
          \r\n

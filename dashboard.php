@@ -121,10 +121,6 @@ if(isset($_SESSION["user_name"], $_SESSION["user_name"]))
     <label for="skill5">Skill 5</label>
     <input type="text" id="skill5" name="skill5"  placeholder="Your any logical skill 5">
 
-    <br>
-    <label for="rskill5">Give rating out of 10 for Skill 5</label>
-    <input type="number" id="rskill5" name="rskill5"  value="1" min ="1" max ="10">
-    <br>
 
     <label for="nskill5">Number of Project based on your Skill 5</label>
     <input type="number" id="nskill5" name="nskill5"  value="0" min="0">    
